@@ -1,0 +1,517 @@
+{
+    "notice": {
+        "tell": "If you have any questions, please contact us at Discord DM.  ",
+        "link": "Link",
+        "text": "\nThis notice is using a translator.\nIf the screen is weird, please refresh it.\nThe untranslated part will be updated later.\nUnwritten or strange information will continue to be updated.\nThe current search function needs to match exactly to work.\n ",
+        "updateLog": "Update Log\n#v1.0.1 (Dec 2, 2024) \n Add missing information\n\n#v1.0 (Dec 1, 2024) \n Site Open\n Implemented Features\n - Worldmap\n - Show location information\n - Show location names, guilds and festivals\n - Search skills, facilities, merchants"
+    },
+    "alert": {
+        "error": "Error!",
+        "inProgress":"This feature is in the works.",
+        "changeLang": "Set Language to English."
+    },
+    "header": {
+        "items": {
+            "map": "World Map",
+            "damage": "Damage Calc"
+        }
+    },
+    "side": {
+        "description": {
+            "title": "Map Options",
+            "text": "This website is a work in progress."
+        },
+        "options": {
+            "showSetting": "Display Setting",
+            "showLocationName": "Show location name",
+            "showFestivalInfo": "Show festival location",
+            "showGuildLocation": "Show guild location",
+            "searchSetting": "Location Search",
+            "searchskill": "Search skill",
+            "searchfacility": "Search facility",
+            "searchmerchant": "Search merchant"
+        }
+    },
+    "worldinfo": {
+        "somewhere": {
+            "name": "Somewhere",
+            "description": ""
+        },
+        "arena": {
+            "name": "Arena",
+            "description": ""
+        },
+        "nefu": {
+            "name": "Nefu village",
+            "description": "You see a large, exotic temple. The sound of a waterfall resonates."
+        },
+        "seeker": {
+            "name": "Seeker's Keep",
+            "description": ""
+        },
+        "sister": {
+            "name": "The Mansion of Younger Sister",
+            "description": ""
+        },
+        "void": {
+            "name": "The Void",
+            "description": "What is this place...?"
+        },
+        "permafrost": {
+            "name": "Permafrost",
+            "description": ""
+        },
+        "specwing": {
+            "name": "Specwing",
+            "description": "You see an enormous tree. Fairies are gracefully dancing around it."
+        },
+        "truceground": {
+            "name": "Truce Ground",
+            "description": "You see old shrines. Sacred air surrounds the ground."
+        },
+        "pyramid": {
+            "name": "Pyramid",
+            "description": ""
+        },
+        "noyel": {
+            "name": "Noyel",
+            "description": "You see Noyel. The laughters of children travel from the playground."
+        },
+        "kapul": {
+            "name": "Port Kapul",
+            "description": "The port is crowded whith merchants."
+        },
+        "cursedmanor": {
+            "name": "The Cursed Manor",
+            "description": "You see a grand mansion. The air around feels very cold."
+        },
+        "quietbeach": {
+            "name": "Quiet Beach",
+            "description": ""
+        },
+        "hillcave": {
+            "name": "Hill cave",
+            "description": ""
+        },
+        "cryptdamned": {
+            "name": "Crypt of the Damned",
+            "description": ""
+        },
+        "embassy": {
+            "name": "The Embassy",
+            "description": ""
+        },
+        "vernis": {
+            "name": "Vernis",
+            "description": ""
+        },
+        "palmia": {
+            "name": "Palmia",
+            "description": "Entire city is surrounded by tall wall."
+        },
+        "fortunebell": {
+            "name": "Fortune Bell",
+            "description": "You see a massive airship floating in the sky"
+        },
+        "miralworkshop": {
+            "name": "Miral and Garokk's Workshop",
+            "description": "You see a quaint little workshop. The sounds of cats meowing reach your ears."
+        },
+        "teola": {
+            "name": "Aquli Teola",
+            "description": "You see a very strange building."
+        },
+        "housedome": {
+            "name": "House Dome",
+            "description": ""
+        },
+        "lesimas": {
+            "name": "Lesimas",
+            "description": "The wheel of fortune start to turn."
+        },
+        "yeekcave": {
+            "name": "Yeek Cave",
+            "description": ""
+        },
+        "graveyard": {
+            "name": "The Graveyard",
+            "description": "You see the graveyard of Lumiest. It's silent. Very silent."
+        },
+        "dragonnest": {
+            "name": "Dragon Nest",
+            "description": ""
+        },
+        "yowyn": {
+            "name": "Yowyn",
+            "description": "You remember fondly the smell of the soil."
+        },
+        "fortchaos": {
+            "name": "Fort of Chaos",
+            "description": "Your inner voice wanrs you to not go there."
+        },
+        "lumiest": {
+            "name": "Lumiest",
+            "description": "Murmuring of water pleasantly echos."
+        },
+        "lumiestcrator": {
+            "name": "Lumiest Crator",
+            "description": "You see Lumiest Crater."
+        },
+        "derphy": {
+            "name": "Derphy",
+            "description": "You see the infamous rogue's den Derphy."
+        },
+        "minotaurnest": {
+            "name": "Minotaur's Nest",
+            "description": ""
+        },
+        "tinkercamp": {
+            "name": "Tinker's Camp",
+            "description": "It's as lively as a corner of a town!"
+        },
+        "littlegarden": {
+            "name": "Little Garden",
+            "description": "You see a well-maintained garden. It gives you a warm feeling inside."
+        },
+        "mountainpass": {
+            "name": "Mountain Pass",
+            "description": ""
+        },
+        "mifu": {
+            "name": "Mifu Village",
+            "description": "You see a peaceful village. The smell of rice is in the air."
+        },
+        "puppycave": {
+            "name": "Puppy's Cave",
+            "description": ""
+        },
+        "lysanas": {
+            "name": "Lysanas",
+            "description": "You feel that something important is slumbering there."
+        },
+        "meadow": {
+            "name": "Meadow",
+            "description": ""
+        },
+        "larna": {
+            "name": "Larna",
+            "description": ""
+        },
+        "asylum": {
+            "name": "Orphanage",
+            "description": "The laughter of children echoes in the air."
+        },
+        "nymelle": {
+            "name": "Nymelle",
+            "description": "The sound of the wind echoes."
+        },
+        "mysilia": {
+            "name": "Mysilia",
+            "description": "Surrounded by nature, the city feels calm and peaceful"
+        },
+        "oldkeep": {
+            "name": "Old Keep",
+            "description": ""
+        },
+        "merchantguild": {
+            "name": "Merchant Guild",
+            "description": "Numerous carts are parked nearby."
+        },
+        "olvina": {
+            "name": "Olvina",
+            "description": "The scent of wine and hot springs fills the air."
+        },
+        "windrest": {
+            "name": "The Place Where Winds rest",
+            "description": ""
+        },
+        "willow": {
+            "name": "Willow",
+            "description": "The willow trees are swaying in the wind."
+        }
+    },
+    "worldinfodetail": {
+        "npc": "Named NPC",
+        "merchant" : "Shops",
+        "skill" : "Learnable skills",
+        "facility" : "Facility",
+        "objects": "Other Objects",
+        "remark" : "Remark",
+        "resource": "Resource",
+        "tree" : "Trees",
+        "otherFeature" : "Othjer feature"
+    },
+    "remark": {
+    },
+    "biome": {
+        "plains": "Plains",
+        "highway": "Highway",
+        "forest": "Forest",
+        "cherryblossom": "Cherry blossoms forest",
+        "willow": "Willow forest",
+        "mountain": "Mountain",
+        "mountainGray": "Mountain",
+        "coast": "Coast",
+        "sea": "Sea",
+        "bridge": "Bridge",
+        "snow": "Snow field"
+    },
+    "tree": {
+        "oak": "Oak tree",
+        "cedar": "Cedar tree",
+        "birch": "Birch tree",
+        "rosewood": "Rosewood tree",
+        "mushroomTree": "Mushroom tree",
+        "pine": "pine tree",
+        "paruru": "Paruru tree",
+        "banana": "Banana tree",
+        "cherryblossom":"Cherry blossoms tree",
+        "willow":"Willow tree",
+        "mahogany": "Mahogany tree",
+        "acacia": "Acacia tree",
+        "fir": "Fir tree",
+        "apple": "Apple tree",
+        "orange": "Orange tree",
+        "peer": "Peer tree"
+    },
+    "otherFeature": {
+        "crim": "Crim",
+        "berry": "Berry",
+        "api": "Api",
+        "pastureGrass": "Pasture grass",
+        "silverGrass": "Silver grass",
+        "bambooShoot": "Bamboo shoot",
+        "mushroom": "Mushroom",
+        "birdNest": "Bird Nest",
+        "blueFlower": "Blue flower",
+        "redHerb": "Red herb",
+        "blueHerb": "Blue herb",
+        "purpleHerb": "Purple herb",
+        "rafflesia": "Rafflesia",
+        "sulfur": "Sulgur",
+        "boneCrystal": "Bone crystal",
+        "coralCrystal": "Coral crystal",
+        "micaCrystal": "Mica crystal",
+        "sand": "Sand",
+        "catus": "Catus",
+        "coral": "Coral",
+        "seeWeed": "Seeweed",
+        "rockSalt": "RockSalt"
+    },
+    "npc": {
+        "theolucia": "『Theolucia』 The Scholar of History",
+        "fiama": "『Fiama』 The Shadow of Mysilia",
+        "ashland": "『Ashland』 The Shadow of Mysilia",
+        "cetrus": "Outland Lord 『Cetrus』",
+        "melvin": "『Melvin』 the Silver Gale",
+        "caldorn": "『Caldorn』 the Mysilian General",
+        "barrich": "『Barrich』 the Red Hair",
+        "jonan": "『Jonan』 the Duke of Mysilia",
+        "eluminaire": "『Eluminaire』 the Mysterious Servant",
+        "efrond": "『Efrond』 the Prince of Mysilia",
+        "rodwyn": "Rodwyn the Witch",
+        "elderSister": "『Older younger sister』",
+        "eureka": "『Eureka』 Firebrand of Strife",
+        "billy": "『Billy』",
+        "marian": "Guild Master 『Marian』",
+        "kunu": "『Kinu』 the Blessed Priestess",
+        "aoi": "Shopkeeper Aoi",
+        "lexus": "The Watchman of the Mages Guild 『Lexus』",
+        "felmera": "Master Painter 『Felmera』",
+        "jorg": "Grand Master 『Jorg』",
+        "renton": "Suffering Apprentice 『Renton』",
+        "revlus": "Honor Apprentice 『Revlus』",
+        "anastazjia": "The Maiden of the Night 『Anastazjia』",
+        "najena": "Bringer Of The Night 『Najena』",
+        "lowell": "Chief of Asylum 『Lowell』",
+        "nino": "Caravan Master 『Nino』",
+        "gwen": "Innocent Girl 『Gwen』",
+        "bigSister": "『Big Sister』",
+        "stangeLittleGirl": "『Strange Little Girl』",
+        "doria": "the Watchman of the Fighters Guild 『Doria』",
+        "tran": "Guild Master 『Tran』",
+        "xabi": "Prince of Palmia 『Xabi』",
+        "stasha": "Idol of the Royal Court 『Stasha』",
+        "zane": "King of Palmia 『Zane』",
+        "nola": "Acting Mayor 『Nola』",
+        "conery": "Shield of Palmia 『Conery』",
+        "gilbert": "Iron Hammer of Palmia 『Gilbert』",
+        "denek": "『Denek』",
+        "misaki": "Blade Priestess 『Misaki』",
+        "mizuno": "Innkeeper 『Mizuno』",
+        "seeker": "『Seeker』",
+        "slan": "Shadow of Palmia 『Slan』",
+        "melilith": "The Cursed Girl 『Melilith』",
+        "farris": "『Farris』 the Talesinger of Olvina",
+        "miral": "『Miral』 the Legendary Smith",
+        "garokk": "『Garokk』 the Legendary Smith"
+    },
+    "merchant": {
+        "healer": "Healer",
+        "bartender": "Bartender",
+        "informer": "Informer",
+        "goods": "Goods Shopkeeper",
+        "furniture": "Furniture Shopkeeper",
+        "trainer": "Trainer",
+        "souvenir": "Souvenir Shopkeeper",
+        "vendingMachine": "Vending Machine",
+        "inn": "Innkeeper",
+        "dye": "dye?",
+        "secretary": "Secretary",
+        "weapon": "Weapon Shopkeeper",
+        "scholar": "Scholar",
+        "mage": "Mage",
+        "butcher": "Butcher",
+        "fruit": "Fruit Shopkeeper",
+        "magic": "Magic Shopkeeper",
+        "general": "General Shopkeeper",
+        "book": "Book Shopkeeper",
+        "banker": "Banker",
+        "fish": "Fishmonger",
+        "baker": "Baker",
+        "tamer": "Animal Tamer",
+        "witch": "Witch",
+        "scrivener": "Scrivener",
+        "guildClerk": "Guild Clerk",
+        "exotic": "Exotic Goods Shopkeeper",
+        "seed": "Seed Merchant",
+        "junk": "Junk Shopkeeper",
+        "slave": "Slave Master",
+        "blackmarket": "Blackmarket Shopkeeper",
+        "caravan": "Caravan Master",
+        "ecopo": "Echopo Merchant",
+        "drug": "Drug Dealer",
+        "bigSister": "『Big Sister』",
+        "stangeLittleGirl": "『Strange Little Girl』",
+        "casino": "Casino Clerk",
+        "mascot": "Mascot",
+        "platinumShop": "Platinum Merchant",
+        "salesclerk": "Salesclerk",
+        "elder": "Elder",
+        "milk": "Milk Merchant",
+        "seeker": "『Seeker』",
+        "map": "Map Vender",
+        "gunsmith": "Gunsmith",
+        "miral": "『Miral』 the Legendary Smith"
+    },
+    "skill": {
+        "carpentry": "Carpentry",
+        "blacksmith": "Blacksmith",
+        "alchemy": "Alchemy",
+        "sculpture": "Sculpture",
+        "jewelry": "Jewelry",
+        "weaving": "Weaving",
+        "crafting": "Crafting",
+        "cooking": "Cooking",
+        "investing": "Investing",
+        "meditation": "Meditation",
+        "casting": "Casting",
+        "faith": "Faith",
+        "martialArt": "Martial Art",
+        "longSword": "Long Sword",
+        "axe": "Axe",
+        "staff": "Staff",
+        "bow": "Bow",
+        "polearm": "Polearm",
+        "shortSword": "Short Sword",
+        "crossbow": "Crossbow",
+        "scythe": "scythe",
+        "mace": "mace",
+        "travel": "Travel",
+        "negotiation": "Negotiation",
+        "magicControl": "Magic Control",
+        "magicCapacity": "Magic Capacity",
+        "memoriztion": "Memoriztion",
+        "spot": "Spot Hidden",
+        "lockpick": "Lockpicking",
+        "disarmTrap": "Disarm Trap",
+        "magicDevice": "Magic Device",
+        "gun": "Gun",
+        "marksman": "Marksman",
+        "greaterEvasion": "Greater Evasion",
+        "pickpocket": "Pickpocket",
+        "stealth": "Stealth",
+        "swim": "Swimming",
+        "weight": "Weightlifting",
+        "ride": "Riding",
+        "symbiosis": "Symbiosis",
+        "music": "Music",
+        "literacy": "Literacy",
+        "appraising": "Appraising",
+        "anatomy": "Anatomy",
+        "regen": "Regeneration",
+        "mining": "Mining",
+        "lumberjacking": "Lumberjacking",
+        "digging": "Digging",
+        "taming": "Taming",
+        "fishing": "Fishing",
+        "gathering": "Gathering",
+        "farming": "Farming",
+        "throwing": "Throwing",
+        "lightArmor": "Light Armor",
+        "heavyArmor": "Heavy Armor",
+        "shield": "Shield",
+        "twoHanded": "Two Handed",
+        "strategy": "Strategy",
+        "evasion": "Evasion",
+        "dualWield": "Dual Wield",
+        "tactics": "Tactics",
+        "eyeOfMind": "Eye of Mind"
+    },
+    "facility": {
+        "cooker": "Coocker",
+        "mixer": "Mixer",
+        "pachiSlot": "Pachislot Machine",
+        "gem": "Gem Cutter",
+        "tinker": "Tinker's Table",
+        "carpenter": "Carpenter's Table",
+        "grinding": "Grinding Wheel",
+        "anvil": "Anvil",
+        "bbq": "BBQ Table",
+        "oven": "Oven",
+        "barrelprocessing": "Barrel Processing Machine",
+        "glassmaker": "Glassmaker's Table",
+        "gunsmith": "Gunsmith's Table",
+        "smelter": "Smelter",
+        "butcher": "Butcher's Tool",
+        "kiln": "Kiln",
+        "millstone": "Millstone",
+        "fireplace": "Fireplace",
+        "bonfire": "BonFire",
+        "spinner": "Spinner",
+        "wall": "Wall Workshop",
+        "block": "Block Workshop",
+        "floor": "Flooring Workshop",
+        "platform": "platform Workshop",
+        "saw": "Sawmill",
+        "sculpting": "Sculpting Table",
+        "cutting": "Cutting Board",
+        "stonecutter": "Stonecutter",
+        "boneCarving": "Bone Carving Tool",
+        "carving": "Carving Tool",
+        "alchemy": "Alchemy Tool",
+        "slot": "Slot machine",
+        "card": "Card table",
+        "scratch": "Scratch machine",
+        "throwing": "Throwing circle",
+        "taxChest": "Tax Chest",
+        "furnace": "Furnace",
+        "cauldron": "Caludron",
+        "microwave": "Microwave",
+        "rationMaker": "Ration Maker",
+        "machine": "Machine Table",
+        "workbench": "Workbench"
+    },
+    "guild": {
+        "fighter": "Fighter guild",
+        "mage": "Mage guild",
+        "thieve": "Thieve guild",
+        "merchant": "Merchant guild"
+    },
+    "festival": {
+        "moon": "Moon Festival(Mar)",
+        "dead": "Festival of the Dead(Jun)",
+        "harvest": "Harvest Festival(Sep)",
+        "holy": "Holy Night Festival(Dec)"
+    }
+}

@@ -1,0 +1,406 @@
+{
+    "notice": {
+        "tell": "お問い合わせはディスコードDMまでご連絡ください。  ",
+        "link": "リンク",
+        "text": "\nこのお知らせは翻訳機を使用しました。\n画面が変だったらリフレッシュしてください。\n未翻訳部分は後日更新いたします。\n未記入の情報や間違った情報は引き続き更新される予定です。\n現在の検索機能は、正確に一致する情報のみが検索されます。\n ",
+        "updateLog": "アップデートログ\n#v1.0.1 (2024.12.02) \n 欠落した情報の追加\n\n#v1.0 (2024.12.01) \n サイト公開\n 具現化された機能\n - ワールドマップ\n - 各地域情報表示\n - 地域名、ギルド、祭り表示\n - スキル、施設、商人検索"
+    },
+    "alert": {
+        "error": "問題が発生しました。\n 詳細については、開発者にお問い合わせください。",
+        "inProgress":"この機能は準備中です。",
+        "changeLang": "言語を日本語に変更しました。"
+    },
+    "header": {
+        "items": {
+        }
+    },
+    "side": {
+        "description": {
+        },
+        "options": {
+        }
+    },
+    "worldinfo": {
+        "somewhere": {
+            "name": "どこか",
+            "description": ""
+        },
+        "arena": {
+            "name": "闘技場",
+            "description": ""
+        },
+        "nefu": {
+            "name": "ネフの里",
+            "description": "大きな異国の寺院が見える。滝の音が響いている。"
+        },
+        "seeker": {
+            "name": "探求者の孤城",
+            "description": ""
+        },
+        "sister": {
+            "name": "妹の館",
+            "description": ""
+        },
+        "void": {
+            "name": "すくつ",
+            "description": ""
+        },
+        "permafrost": {
+            "name": "영구동토",
+            "description": "永久凍土"
+        },
+        "specwing": {
+            "name": "スペクウィング",
+            "description": "とてつもなく巨大な大木がある。妖精たちが軽やかに舞っている。"
+        },
+        "truceground": {
+            "name": "神々の休戦地",
+            "description": "寺院がある。神聖な雰囲気がする。"
+        },
+        "pyramid": {
+            "name": "ピラミッド",
+            "description": ""
+        },
+        "noyel": {
+            "name": "ノイエル",
+            "description": "ノイエルの村がある。子供たちの笑い声が聞こえる。"
+        },
+        "kapul": {
+            "name": "ポート・カプール",
+            "description": "港は船で賑わっている。"
+        },
+        "cursedmanor": {
+            "name": "呪われた館",
+            "description": "大きなお屋敷が見える。辺りの空気はとても冷たい。"
+        },
+        "quietbeach": {
+            "name": "静かな砂浜",
+            "description": ""
+        },
+        "hillcave": {
+            "name": "丘の洞窟",
+            "description": ""
+        },
+        "cryptdamned": {
+            "name": "死者の洞窟",
+            "description": ""
+        },
+        "embassy": {
+            "name": "バルミア大使館",
+            "description": ""
+        },
+        "vernis": {
+            "name": "ヴェルニース",
+            "description": ""
+        },
+        "palmia": {
+            "name": "バルミア",
+            "description": "都は高い壁に囲われている。"
+        },
+        "fortunebell": {
+            "name": "フォーチュン・ベル",
+            "description": "空に巨大な飛空艇が浮かんでいる。"
+        },
+        "miralworkshop": {
+            "name": "工房ミラル・ガロク",
+            "description": "こじんまりとした工房がある。猫の鳴き声が聞こえる。"
+        },
+        "teola": {
+            "name": "アクリ・テオラ",
+            "description": "何やら奇妙な建物が見える。"
+        },
+        "housedome": {
+            "name": "ハウスドーム",
+            "description": ""
+        },
+        "lesimas": {
+            "name": "レシマス",
+            "description": "運命の鼓動を感じる。"
+        },
+        "yeekcave": {
+            "name": "イークの洞窟",
+            "description": ""
+        },
+        "graveyard": {
+            "name": "墓所",
+            "description": "墓所が見える。辺りは静寂に包まれている･･･"
+        },
+        "dragonnest": {
+            "name": "竜窟",
+            "description": ""
+        },
+        "yowyn": {
+            "name": "ヨウィン",
+            "description": "懐かしい土の匂いがする。"
+        },
+        "fortchaos": {
+            "name": "不気味な城",
+            "description": "絶対に入ってはいけない予感がする。"
+        },
+        "lumiest": {
+            "name": "ルミエスト",
+            "description": "水のせせらぎが聴こえる。"
+        },
+        "lumiestcrator": {
+            "name": "ルミエスト・クレーター",
+            "description": "ルミエスト・クレーターが見える。"
+        },
+        "derphy": {
+            "name": "ダルフィ",
+            "description": "何やら危険な香りがする。"
+        },
+        "minotaurnest": {
+            "name": "ミノタウロスの巣",
+            "description": ""
+        },
+        "tinkercamp": {
+            "name": "旅商人の停泊地",
+            "description": "まるで街の一角のような賑わいだ!"
+        },
+        "littlegarden": {
+            "name": "リトルガーデン",
+            "description": ""
+        },
+        "mountainpass": {
+            "name": "山道への入り口",
+            "description": "綺麗に手入れされた庭が見える。心が温まる感じがする。"
+        },
+        "mifu": {
+            "name": "ミフの里",
+            "description": "のどかな異国風の村が見える。稲の匂いがする。"
+        },
+        "puppycave": {
+            "name": "仔犬の洞窟",
+            "description": ""
+        },
+        "lysanas": {
+            "name": "リサナス",
+            "description": "何か重要なものが眠っている気がする。"
+        },
+        "meadow": {
+            "name": "野原",
+            "description": ""
+        },
+        "larna": {
+            "name": "ラーナ",
+            "description": ""
+        },
+        "asylum": {
+            "name": "孤児院",
+            "description": "子供たちの笑い声が聞こえる。"
+        },
+        "nymelle": {
+            "name": "ナイミール",
+            "description": "風の音が聞こえる。"
+        },
+        "mysilia": {
+            "name": "ミシリア",
+            "description": "自然に囲まれ、落ち着いた街並みが広がっている。"
+        },
+        "oldkeep": {
+            "name": "古城",
+            "description": ""
+        },
+        "merchantguild": {
+            "name": "商人ギルド",
+            "description": "たくさんの荷車が停めてある。"
+        },
+        "olvina": {
+            "name": "オルヴィナ",
+            "description": "葡萄酒と温泉の香りがする。"
+        },
+        "windrest": {
+            "name": "風の眠る場所",
+            "description": "風の眠る場所が見える。"
+        },
+        "willow": {
+            "name": "ウィロウ",
+            "description": "柳の木々が風に揺れている。"
+        }
+    },
+    "worldinfodetail": {
+        "npc": "NPC",
+        "merchant" : "お店",
+        "skill" : "トレイナー",
+        "facility" : "施設",
+        "objects": "その他",
+        "remark" : "トリビア",
+        "tree" : "生えている木 ",
+        "otherFeature" : "その他特色"
+    },
+    "remark": {
+    },
+    "biome": {
+    },
+    "tree": {
+    },
+    "otherFeature": {
+    },
+    "npc": {
+        "theolucia": "歴史を学ぶ『シオルシア』",
+        "fiama": "ミシリアの影『フィアマ』",
+        "ashland": "ミシリアの影『エイシュランド』",
+        "cetrus": "辺境公『シェトラス』",
+        "melvin": "閃影の『メルヴィン』",
+        "caldorn": "ミシリア大将『カルドーン』",
+        "barrich": "赤髪の『ベーリッヒ』",
+        "jonan": "ミシリア公『ジョナン』",
+        "eluminaire": "謎の従者『エルミナレ』",
+        "efrond": "ミシリアの公子『エフロンド』",
+        "rodwyn": "魔女のロドウィン",
+        "elderSister": "『年上の妹』",
+        "eureka": "戦禍の奏者『エウレカ』",
+        "billy": "『ビリー』",
+        "marian": "ギルドマスター『マリアン』",
+        "kunu": "祝福の巫女『キヌ』",
+        "aoi": "何でも屋の店主のアオイ",
+        "lexus": "魔術師ギルドの番人『レクサス』 ",
+        "felmera": "天才画家『フェルメラ』",
+        "jorg": "ギルドマスター『ヨーグ』",
+        "renton": "悩める見習い『レントン』",
+        "revlus": "優等生の『レヴラス』",
+        "anastazjia": "夜の乙女『アナスタジヤ』",
+        "najena": "夜をもたらすもの『ナジェナ』",
+        "lowell": "アシュラムの院長『ロウェル』",
+        "nino": "キャラバンの隊長『ニノ』",
+        "gwen": "無邪気な少女『グウェン』",
+        "bigSister": "『ビッグシスター』",
+        "stangeLittleGirl": "『謎の幼女』",
+        "doria": "戦士ギルドの番人『ドリア』",
+        "tran": "ギルドマスター『トラン』",
+        "xabi": "パルミア王子『ジャビ』",
+        "stasha": "王宮のアイドル『スターシャ』",
+        "zane": "パルミア国王『ゼイン』",
+        "nola": "市長代理『ノーラ』",
+        "conery": "パルミアの盾『コネリー』",
+        "gilbert": "パルミアの鉄槌『ギルバート』",
+        "denek": "『デネク』",
+        "misaki": "刀の巫女『ミサキ』",
+        "mizuno": "宿屋の店主のミズナ",
+        "seeker": "『探求者』",
+        "slan": "パルミアの影『スラン』",
+        "melilith": "呪われた少女『メリリス』",
+        "farris": "オルヴィナの唄い手『ファリス』",
+        "miral": "伝説の職人『ミラル』",
+        "garokk": "伝説の職人『ガロク』"
+    },
+    "merchant": {
+        "healer": "癒し手",
+        "bartender": "バーテンダー",
+        "informer": "情報屋",
+        "goods": "goods?",
+        "furniture": "家具屋",
+        "trainer": "トレイナー",
+        "souvenir": "お土産屋",
+        "vendingMachine": "自動販売機",
+        "inn": "宿屋",
+        "dye": "染織屋",
+        "secretary": "秘書",
+        "weapon": "鍛冶屋",
+        "scholar": "学者",
+        "mage": "魔術師",
+        "butcher": "肉屋",
+        "fruit": "果物屋",
+        "magic": "魔法屋",
+        "general": "何でも屋",
+        "book": "本屋",
+        "banker": "銀行員",
+        "fish": "魚屋",
+        "baker": "パン屋",
+        "tamer": "調教師",
+        "witch": "魔女",
+        "scrivener": "公証人",
+        "guildClerk": "受付嬢",
+        "exotic": "舶来品商人",
+        "seed": "作物の種商人",
+        "junk": "ジャンク屋",
+        "slave": "奴隷商人",
+        "blackmarket": "ブラックマーケット",
+        "caravan": "キャラバンの隊長",
+        "ecopo": "エコポ商人",
+        "bigSister": "『ビッグシスター』",
+        "stangeLittleGirl": "『謎の幼女』",
+        "drug": "drug?",
+        "casino": "カジノの受付嬢",
+        "mascot": "マスコット",
+        "platinumShop": "プラチナ商人",
+        "salesclerk": "セールスマン",
+        "elder": "長老",
+        "milk": "ミルク商人",
+        "seeker": "『探求者』",
+        "map": "地図商人",
+        "gunsmith": "銃器職人",
+        "miral": "伝説の職人『ミラル』"
+    },
+    "skill": {
+        "carpentry": "木工",
+        "blacksmith": "鍛冶",
+        "alchemy": "錬金",
+        "sculpture": "彫刻",
+        "jewelry": "宝石細工",
+        "weaving": "裁縫",
+        "crafting": "製作",
+        "cooking": "料理",
+        "investing": "投資",
+        "meditation": "瞑想",
+        "casting": "詠唱",
+        "faith": "信仰",
+        "butcher": "肉屋",
+        "martialArt": "格闘",
+        "longSword": "長剣",
+        "axe": "斧",
+        "staff": "杖",
+        "bow": "弓",
+        "polearm": "槍",
+        "shortSword": "短剣",
+        "crossbow": "クロスボウ",
+        "scythe": "鎌",
+        "mace": "鈍器",
+        "travel": "旅歩き",
+        "negotiation": "交渉術",
+        "magicControl": "魔力制御",
+        "magicCapacity": "魔力の限界",
+        "memoriztion": "暗記",
+        "spot": "探索",
+        "lockpick": "鍵開け",
+        "disarmTrap": "罠解体",
+        "magicDevice": "魔道具",
+        "gun": "銃",
+        "marksman": "射撃",
+        "greaterEvasion": "見切り",
+        "pickpocket": "窃",
+        "stealth": "隠密",
+        "swim": "水泳",
+        "weight": "重量上げ",
+        "ride": "乗馬",
+        "symbiosis": "共存",
+        "music": "演奏",
+        "literacy": "読書",
+        "appraising": "鑑定",
+        "anatomy": "解剖学",
+        "regen": "自然治癒",
+        "mining": "採掘",
+        "lumberjacking": "木こり",
+        "digging": "穴掘り",
+        "taming": "調教",
+        "fishing": "釣り",
+        "gathering": "採取",
+        "farming": "農業",
+        "throwing": "投擲",
+        "lightArmor": "軽装備",
+        "heavyArmor": "重装備",
+        "shield": "盾",
+        "twoHanded": "両手持ち",
+        "strategy": "戦略",
+        "evasion": "回避",
+        "dualWield": "二刀流",
+        "tactics": "戦術",
+        "eyeOfMind": "心眼"
+    },
+    "facility": {
+    },
+    "guild": {
+    },
+    "festival": {
+    }
+}
